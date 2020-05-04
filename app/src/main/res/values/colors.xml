@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="white_20_opacity">#33FFFFFF</color>
+    <color name="white_24_opacity">#3DFFFFFF</color>
+    <color name="white_40_opacity">#66ffffff</color>
+    <color name="white_60_opacity">#99ffffff</color>
+
+    <color name="black">#000000</color>
+
+    <color name="gray_icon">#99A2AD</color>
+    <color name="gray_text">#818C99</color>
+    <color name="gray_light">#ebebeb</color>
+
+    <color name="blue">#528bcc</color>
+    <color name="blue_dark">#2a70bf</color>
+    <color name="cornflower_blue">#5692d7</color>
+    <color name="cool_blue">#4680c2</color>
+    <color name="vk_blue">#4986CC</color>
+
+    <color name="red">#b71c1c</color>
+    <color name="green">#07867b</color>
+
+</resources>

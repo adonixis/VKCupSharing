@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">VK Cup Sharing</string>
+
+    <string name="btn_vk_login">Войти</string>
+    <string name="btn_vk_logout">Выйти</string>
+    <string name="btn_select_photo">Выбрать фото</string>
+    <string name="btn_send">Отправить</string>
+
+    <string name="title_share_photos">Делитесь фотографиями</string>
+    <string name="title_share_on_wall">Поделиться на стене</string>
+
+    <string name="description_share_photos">Поделитесь фотографией на стене и добавьте к ней описание</string>
+
+    <string name="hint_add_comment">Добавить комментарий</string>
+
+    <string name="message_wall_ok">Запись опубликована</string>
+    <string name="message_rationale_permission">Необходимо предоставить доступ к фото</string>
+
+    <string name="snackbar_action_grant">Предоставить</string>
+    <string name="snackbar_action_hide">Скрыть</string>
+
+    <string name="progress_message_sharing">Публикация поста</string>
+
+    <integer name="com_vk_sdk_AppId" translatable="false">7339580</integer>
+</resources>
